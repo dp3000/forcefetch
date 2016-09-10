@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Fetch Apex Code",
+        "command": "forcefetch:fetch"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Forcefetch",
+          "submenu": [
+            {
+              "label": "Fetch Apex Code",
+              "command": "forcefetch:fetch"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
