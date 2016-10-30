@@ -1,7 +1,7 @@
 {
   "name": "forcefetch",
   "main": "./lib/forcefetch",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "An easy way to return Apex Code from Salesforce StackExchange by searching for highlighted text within Atom",
   "keywords": [],
   "activationCommands": {
