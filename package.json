@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "forcefetch:fetch"
   },
-  "repository": "https://github.com/drewcp87/forcefetch",
+  "repository": "https://github.com/dp3000/forcefetch",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
